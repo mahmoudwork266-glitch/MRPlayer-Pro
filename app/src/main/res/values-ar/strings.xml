@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MR Player</string>
+    <string name="developer">تطوير MAHMOUD RATEB</string>
+    <string name="m3u">إدخال رابط M3U</string>
+    <string name="xtream">تسجيل الدخول بـ Xtream Codes</string>
+    <string name="playlist">تصفّح قائمة التشغيل</string>
+    <string name="mac">الاتصال عبر MAC ID</string>
+    <string name="mac_sub">اتصال البوابة</string>
+    <string name="m3u_hint">رابط القائمة (http://...)</string>
+    <string name="server">رابط السيرفر</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="portal">رابط البوابة</string>
+    <string name="your_mac">عنوان MAC الخاص بك</string>
+    <string name="mac_note">أعطِ عنوان MAC هذا لمزوّد الخدمة لتفعيله. ميزة تجريبية.</string>
+    <string name="connect">اتصال</string>
+    <string name="all">الكل</string>
+    <string name="favorites">المفضلة</string>
+    <string name="search">ابحث عن قناة</string>
+    <string name="no_results">لا توجد قنوات</string>
+    <string name="back">رجوع</string>
+    <string name="copy">نسخ</string>
+    <string name="disclaimer">هذا التطبيق مشغّل وسائط فقط ولا يحتوي على أي قنوات أو محتوى. استخدمه مع اشتراكات مرخّصة لك فقط.</string>
+</resources>

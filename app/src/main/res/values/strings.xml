@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MR Player</string>
+    <string name="developer">Developed by MAHMOUD RATEB</string>
+    <string name="m3u">Enter M3U URL</string>
+    <string name="xtream">Login With Xtream Codes API</string>
+    <string name="playlist">Browse Your Playlist</string>
+    <string name="mac">Connect with MAC ID</string>
+    <string name="mac_sub">Portal Connectivity</string>
+    <string name="m3u_hint">Playlist URL (http://...)</string>
+    <string name="server">Server URL</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="portal">Portal URL</string>
+    <string name="your_mac">Your MAC address</string>
+    <string name="mac_note">Give this MAC address to your provider so it can be activated. Experimental feature.</string>
+    <string name="connect">Connect</string>
+    <string name="all">All</string>
+    <string name="favorites">Favorites</string>
+    <string name="search">Search channels</string>
+    <string name="no_results">No channels</string>
+    <string name="back">Back</string>
+    <string name="copy">Copy</string>
+    <string name="disclaimer">This app is only a media player. It contains no channels or content. Use it only with subscriptions you are licensed to use.</string>
+</resources>
